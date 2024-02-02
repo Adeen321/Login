@@ -1,0 +1,66 @@
+.name{
+    color: white;
+    position: absolute;
+}
+.email{
+    color: aqua     ;
+}
+.input{
+    
+    color: black;
+    background: transparent;
+    /* border-color: #000; */
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    border-style: none  ;
+    outline:none;
+    border-bottom: 1px solid ;
+width: 300px;
+position: relative;
+margin-top: 50px    ;
+}
+ .input:focus{
+    border-bottom: 1px solid rgb(66, 230, 255); 
+    
+} 
+::placeholder{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -10px;
+}
+.Name{
+        
+    color: black;
+    background: transparent;
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    border-style: none  ;
+    outline:none;
+    
+width: 300px;
+
+margin-top: 50px    ;
+}
+.A{
+    height: 40px;
+    width: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #0040ff;
+    outline: none;
+    border-color: black;
+}
+.Aa{
+    height: 40px;
+    width: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    outline: none;
+    border-color: black;
+}
+input{
+    height: 50px;
+}
